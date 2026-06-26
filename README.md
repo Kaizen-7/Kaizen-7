@@ -1,6 +1,6 @@
 # Hi there, I'm Luca 👋
 
-I'm a **Mobile Application Architect** with 8+ years of experience, passionate about building **scalable, user-centric mobile applications** across **Android, iOS, and cross-platform** ecosystems.<br>
+I'm a **Mobile Application Architect** building mobile software professionally since 2016, passionate about building **scalable, user-centric mobile applications** across **Android, iOS, and cross-platform** ecosystems.<br>
 I specialize in **clean code**, **robust architecture**, and **test-driven development**, and I'm always exploring new technologies to improve my workflow and deliver high-quality apps.
 
 ## 🧑‍💻 What I Do
