@@ -1,7 +1,7 @@
 # Hi there, I'm Luca 👋
 
 I'm a **Mobile Application Architect** building mobile software professionally since 2016, passionate about building **scalable, user-centric mobile applications** across **Android, iOS, and cross-platform** ecosystems.<br>
-I specialize in **clean code**, **robust architecture**, and **test-driven development**, and I'm always exploring new technologies to improve my workflow and deliver high-quality apps.
+I specialize in **clean code**, **robust architecture**, and **test-driven development**, and I lean heavily into **AI-assisted, agentic development** to ship faster without compromising quality.
 
 ## 🧑‍💻 What I Do
 I focus on delivering performant, maintainable, and seamless mobile apps across platforms, with an emphasis on:
@@ -14,6 +14,7 @@ I focus on delivering performant, maintainable, and seamless mobile apps across 
 - Practicing **Test-Driven Development (TDD)** for reliable, regression-safe codebases
 - Automating builds & releases with **Fastlane** and **CI/CD** pipelines
 - **Mentoring** developers and driving technical decisions as a tech lead
+- Accelerating delivery with **agentic coding assistants** (Claude Code, OpenCode), building **custom AI agents**, and mastering modern **developer CLIs** (incl. the new Android CLI tooling)
 - Optimizing **UX/UI** and **app performance** for a smooth user experience
 
 ## 🛠️ Technologies & Tools
@@ -24,6 +25,7 @@ I focus on delivering performant, maintainable, and seamless mobile apps across 
 - **Architecture:** MVVM, MVI, Clean Architecture, Modularization, SOLID
 - **Testing:** TDD, JUnit, MockK, Espresso, XCTest
 - **Automation & CI/CD:** Fastlane, GitHub Actions, Travis
+- **AI & Agentic Dev:** Claude Code, OpenCode, custom AI agents, modern developer CLIs
 - **Tools:** Android Studio, Xcode, Git, Firebase, Crashlytics, Jira
 
 ## 📊 GitHub Stats
