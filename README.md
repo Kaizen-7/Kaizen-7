@@ -1,5 +1,7 @@
 # Hi there, I'm Luca 👋
 
+<img src="https://komarev.com/ghpvc/?username=Kaizen-7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 I'm a **Mobile Application Architect** building mobile software professionally since 2016, passionate about building **scalable, user-centric mobile applications** across **Android, iOS, and cross-platform** ecosystems.<br>
 I specialize in **clean code**, **robust architecture**, and **test-driven development**, and I lean heavily into **AI-assisted, agentic development** to ship faster without compromising quality.
 
@@ -29,5 +31,16 @@ I focus on delivering performant, maintainable, and seamless mobile apps across 
 - **Tools:** Android Studio, Xcode, Git, Firebase, Crashlytics, Jira
 
 ## 📊 GitHub Stats
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaizen-7&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizen-7&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaizen-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Luca's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizen-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kaizen-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaizen-7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
