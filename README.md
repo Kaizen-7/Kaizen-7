@@ -27,7 +27,8 @@ I lead cross-functional mobile teams (up to 10 engineers) and believe technical 
 
 ## Currently exploring
 
-Building with **Kotlin Multiplatform** through personal side projects — learning how far shared code can go across Android and iOS.
+- **Agentic development** — working daily with coding agents (Claude Code, OpenCode) and refining the engineering practices around them: context design, spec-driven workflows, and keeping quality high while shipping faster
+- **Kotlin Multiplatform** — personal side projects to see how far shared code can go across Android and iOS
 
 ## Reach me
 
