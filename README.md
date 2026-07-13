@@ -33,11 +33,6 @@ I focus on delivering performant, maintainable, and seamless mobile apps across 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaizen-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Luca's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizen-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Langs" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kaizen-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
