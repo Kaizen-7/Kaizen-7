@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Kaizen-7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-I'm a **Mobile Application Architect at IBM**, based in Rome, Italy, with 10 years in mobile development — deep Android expertise, plus a couple of years hands-on with iOS (UIKit).
+I'm a **Mobile Architect at IBM**, based in Rome, Italy, with 10 years in mobile development — deep Android expertise, plus a couple of years hands-on with iOS (UIKit).
 I lead cross-functional mobile teams (up to 10 engineers) and believe technical decisions should exist to ship a better product for real users.
 
 ## What I'm about
