@@ -8,9 +8,8 @@ I lead cross-functional mobile teams (up to 10 engineers) and believe technical 
 ## What I'm about
 
 - **User-centric first** — architecture and tech choices serve the product and the people using it, never the other way around
-- **Quality-driven** — TDD, SOLID, meaningful unit tests, a strong code-review culture, and solid CI/CD (GitHub Actions, Jenkins, Fastlane)
-- **I lead with kindness** — mentoring, honest reviews, and teams where asking questions is encouraged
-- **Some things I've worked on** — a banking app with 200K+ daily active users (iOS team lead), an open-source healthcare app with 5M+ downloads (Android team lead), the most-downloaded Travel & Transportation app in Italy, and the Yoox e-commerce app
+- **Quality-driven** — TDD, SOLID, meaningful tests, strong code review, and solid CI/CD (GitHub Actions, Jenkins, Fastlane)
+- **Team-oriented** — mentoring, honest reviews, and space for people to ask questions
 
 ## Tech stack
 
